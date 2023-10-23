@@ -29,4 +29,5 @@ int main(void) {
     strcpy(heroi.nivel, "Radiante");
   }
   printf("O Herói de nome %s está no nível de %s", heroi.nome, heroi.nivel);
+  return 0;
 }
